@@ -1,0 +1,23 @@
+timers.pbi: \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\timers.c \
+  D:\Games\IAR\arm\inc\c\stdlib.h D:\Games\IAR\arm\inc\c\ycheck.h \
+  D:\Games\IAR\arm\inc\c\yvals.h D:\Games\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\\Games\\IAR\\arm\\inc\\c\\DLib_Config_Normal.h \
+  D:\Games\IAR\arm\inc\c\DLib_Product.h D:\Games\IAR\arm\inc\c\ysizet.h \
+  D:\Games\IAR\arm\inc\c\DLib_Product_stdlib.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include\FreeRTOS.h \
+  D:\Games\IAR\arm\inc\c\stddef.h D:\Games\IAR\arm\inc\c\stdint.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include/..\FreeRTOSConfig.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include/projdefs.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include/portable.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include/deprecated_definitions.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F\portmacro.h \
+  D:\Games\IAR\arm\inc\c\intrinsics.h \
+  D:\Games\IAR\arm\inc\c\iccarm_builtin.h \
+  D:\Games\IAR\arm\inc\c\iar_intrinsics_common.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include/mpu_wrappers.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include\task.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include/list.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include\queue.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include\timers.h \
+  C:\IAR\ Proj\NEW6\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\include/task.h

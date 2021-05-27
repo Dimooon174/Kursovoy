@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<settings>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <Trace1>
+        <Enabled>0</Enabled>
+        <ShowSource>1</ShowSource>
+    </Trace1>
+    <DebugChecksum>
+        <Checksum>3762103489</Checksum>
+    </DebugChecksum>
+    <Disassembly>
+        <InstrCount>0</InstrCount>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <CodeCoverage>
+        <Enabled>0</Enabled>
+        <ShowSource>0</ShowSource>
+        <HideCovered>0</HideCovered>
+    </CodeCoverage>
+    <Exceptions>
+        <StopOnUncaught>_ 0</StopOnUncaught>
+        <StopOnThrow>_ 0</StopOnThrow>
+    </Exceptions>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <StLinkDriver>
+        <stlinkserialNo>42372543</stlinkserialNo>
+        <stlinkfoundProbes />
+        <stlinkResetStyle>0</stlinkResetStyle>
+        <stlinkResetStrategy>0</stlinkResetStrategy>
+        <CStepIntDis>_ 0</CStepIntDis>
+        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
+    </StLinkDriver>
+    <SWOTraceHWSettings>
+        <OverrideDefaultClocks>0</OverrideDefaultClocks>
+        <CpuClock>100000000</CpuClock>
+        <ClockAutoDetect>1</ClockAutoDetect>
+        <ClockWanted>2000000</ClockWanted>
+        <JtagSpeed>2000000</JtagSpeed>
+        <Prescaler>50</Prescaler>
+        <TimeStampPrescIndex>0</TimeStampPrescIndex>
+        <TimeStampPrescData>0</TimeStampPrescData>
+        <PcSampCYCTAP>1</PcSampCYCTAP>
+        <PcSampPOSTCNT>15</PcSampPOSTCNT>
+        <PcSampIndex>0</PcSampIndex>
+        <DataLogMode>0</DataLogMode>
+        <ITMportsEnable>0</ITMportsEnable>
+        <ITMportsTermIO>0</ITMportsTermIO>
+        <ITMportsLogFile>0</ITMportsLogFile>
+        <ITMlogFile>$PROJ_DIR$\ITM.log</ITMlogFile>
+    </SWOTraceHWSettings>
+    <Interrupts>
+        <Enabled>1</Enabled>
+    </Interrupts>
+    <MemConfig>
+        <Base>1</Base>
+        <Manual>0</Manual>
+        <Ddf>1</Ddf>
+        <TypeViol>0</TypeViol>
+        <Stop>1</Stop>
+    </MemConfig>
+    <Simulator>
+        <Freq>10000000</Freq>
+        <FreqHi>0</FreqHi>
+        <MultiCoreRunAll>1</MultiCoreRunAll>
+    </Simulator>
+    <Trace2>
+        <Enabled>0</Enabled>
+        <ShowSource>0</ShowSource>
+    </Trace2>
+    <SWOTraceWindow>
+        <PcSampling>0</PcSampling>
+        <InterruptLogs>0</InterruptLogs>
+        <ForcedTimeStamps>0</ForcedTimeStamps>
+        <EventCPI>0</EventCPI>
+        <EventEXC>0</EventEXC>
+        <EventFOLD>0</EventFOLD>
+        <EventLSU>0</EventLSU>
+        <EventSLEEP>0</EventSLEEP>
+    </SWOTraceWindow>
+    <DataLog>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+    </DataLog>
+    <InterruptLog>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+        <SumSortOrder>0</SumSortOrder>
+    </InterruptLog>
+    <EventLog>
+        <Title_0>Ch3</Title_0>
+        <Symbol_0>0 0 1</Symbol_0>
+        <Title_1>Ch2</Title_1>
+        <Symbol_1>0 0 1</Symbol_1>
+        <Title_2>Ch1</Title_2>
+        <Symbol_2>0 0 1</Symbol_2>
+        <Title_3>Ch0</Title_3>
+        <Symbol_3>0 0 1</Symbol_3>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+        <SumSortOrder>0</SumSortOrder>
+    </EventLog>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <DriverProfiling>
+        <Enabled>0</Enabled>
+        <Mode>3</Mode>
+        <Graph>0</Graph>
+        <Symbiont>0</Symbiont>
+        <Exclusions />
+    </DriverProfiling>
+    <CallStackLog>
+        <Enabled>0</Enabled>
+    </CallStackLog>
+    <CallStackStripe>
+        <ShowTiming>1</ShowTiming>
+    </CallStackStripe>
+    <DisassembleMode>
+        <mode>0</mode>
+    </DisassembleMode>
+    <Breakpoints2>
+        <Bp0>_ 0 "EMUL_CODE" "{$PROJ_DIR$\USART\UsartDriver.hpp}.33.5" 0 0 1 "" 0 "" 0</Bp0>
+        <Count>1</Count>
+    </Breakpoints2>
+    <Aliases>
+        <A0>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\AHardware\IrqController\irqcontroller.cpp" ""</A0>
+        <A1>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\AHardware\Registers\fieldvaluebase.hpp" ""</A1>
+        <A2>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\AHardware\Registers\register.hpp" ""</A2>
+        <A3>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\AHardware\Registers\registerbase.hpp" ""</A3>
+        <A4>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\Application\Temperature.hpp" ""</A4>
+        <A5>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\Application\filter.hpp" ""</A5>
+        <A6>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\MyTasks\Ledtask.hpp" ""</A6>
+        <A7>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\MyTasks\TemperatureTask.hpp" ""</A7>
+        <A8>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\list.c" ""</A8>
+        <A9>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F\port.c" ""</A9>
+        <A10>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F\portasm.s" ""</A10>
+        <A11>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\tasks.c" ""</A11>
+        <A12>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\Rtos\wrapper\FreeRtos\rtoswrapper.hpp" ""</A12>
+        <A13>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\Rtos\wrapper\rtos.hpp" ""</A13>
+        <A14>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\Rtos\wrapper\thread.hpp" ""</A14>
+        <A15>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\main.cpp" ""</A15>
+        <A16>_ "C:\413\NEW5\KursovoyKarcas\RtosWrapper\startupF411RE.cpp" "C:\IAR Proj\NEW6\KursovoyKarcas\RtosWrapper\startupF411RE.cpp"</A16>
+        <A17>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\AHardware\IrqController\irqcontroller.cpp" ""</A17>
+        <A18>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\AHardware\Registers\fieldvaluebase.hpp" ""</A18>
+        <A19>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\AHardware\Registers\register.hpp" ""</A19>
+        <A20>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\AHardware\Registers\registerbase.hpp" ""</A20>
+        <A21>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\Application\filter.hpp" ""</A21>
+        <A22>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\MyTasks\Ledtask.hpp" ""</A22>
+        <A23>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\list.c" ""</A23>
+        <A24>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F\port.c" ""</A24>
+        <A25>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\portable\IAR\ARM_CM4F\portasm.s" ""</A25>
+        <A26>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\Rtos\FreeRtos\tasks.c" ""</A26>
+        <A27>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\Rtos\wrapper\FreeRtos\rtoswrapper.hpp" ""</A27>
+        <A28>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\Rtos\wrapper\rtos.hpp" ""</A28>
+        <A29>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\Rtos\wrapper\thread.hpp" ""</A29>
+        <A30>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\main.cpp" ""</A30>
+        <A31>_ "C:\IAR Proj\NEW3\KursovoyKarcas\RtosWrapper\startupF411RE.cpp" ""</A31>
+        <A32>_ "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc\c\math.h" ""</A32>
+        <A33>_ "D:\Games\IAR\arm\inc\c\math.h" ""</A33>
+        <Count>34</Count>
+        <SuppressDialog>0</SuppressDialog>
+    </Aliases>
+</settings>
